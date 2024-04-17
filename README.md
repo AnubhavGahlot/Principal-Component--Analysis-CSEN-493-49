@@ -1,4 +1,4 @@
-# Principal-Component--Analysis-CSEN-493-49
+# Principal-Component-Analysis-CSEN-493-49
 
 Course Code: CSEN 493-49
 
