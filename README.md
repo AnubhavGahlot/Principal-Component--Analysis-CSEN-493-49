@@ -2,16 +2,6 @@ IoT Data Reduction using PCA
 
 This research highlights the use of Principal Component Analysis (PCA) to reduce the dimensionality of IoT data while retaining its critical properties. The Incremental PCA (IPCA) technique is used to handle huge datasets efficiently. The research also compares the performance of models trained on original data with PCA-reduced data.
 
- Table of Contents
-
-- [Introduction](introduction)
-- [Dataset](dataset)
-- [Prerequisites](prerequisites)
-- [Usage](usage)
-- [Research Structure](research-structure)
-- [Results](results)
-- [Acknowledgements](acknowledgements)
-
  Introduction
 
 The growth of the Internet of Things (IoT) has resulted in an explosion in the volume of data created by linked devices. Real-time analytics, machine learning, and autonomous decision-making rely heavily on effective data management. This research investigates the use of PCA to minimize IoT data sizes, resulting in more effective data handling without sacrificing accuracy.
