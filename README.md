@@ -38,14 +38,13 @@ pip install pandas numpy scikit-learn tqdm matplotlib
 2. Run the Scriptresearch: Execute the script to preprocess the data, apply Incremental PCA, and compare the performance of RandomForest classifiers trained on the original and PCA-reduced data.
 
 ```bash
-python3 iot_pca_data_reduction.py
+python3 pca.py
 ```
 
  Research Structure
 
-- `iot_pca_data_reduction.py`: This is the main script for loading, preprocessing, reducing, and evaluating IoT data using Incremental PCA.
+- `pca.py`: This is the main script for loading, preprocessing, reducing, and evaluating IoT data using Incremental PCA.
 - `README.md`: This file provides an overview and instructions for running the project.
-- `docs/`: This directory contains additional documentation and notes on the project.
 
  Results
 
