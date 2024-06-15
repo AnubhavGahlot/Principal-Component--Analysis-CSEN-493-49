@@ -71,5 +71,4 @@ The script outputs the following:
 
 - The N-BaIoT dataset, which was used in this research, was created to investigate the features of botnets in IoT environments. The dataset offers insightful information about how Internet of Things devices behave in different attack scenarios.
 
-![image](https://github.com/AnubhavGahlot/Principal-Component-Analysis-CSEN-493-49/assets/69597981/6bc7f22d-e5ab-4f7c-b1ad-93d1578d77be)
 
